@@ -17,3 +17,5 @@ ggd503: Canadian Geothermal Data Collection: Deep permafrost temperatures and th
 ggd605: Schefferville Permafrost Temperature Database
 
 go2189: Soil Temperature Station Data from Permafrost Regions of Russia (Selection of Five Stations), 1880s - 2000
+
+ggd195: Vegetation dynamics and geocryological conditions of the West Siberian Arctic, Russia

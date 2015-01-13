@@ -8295,6 +8295,2106 @@
                 "id": "Churapcha", 
                 "dataset": "go2189"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.5,
+                    64.5833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "4",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    64.1667,
+                    67.1667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "7",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.9167,
+                    65.9667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "8",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.2,
+                    62.7
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "9",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.85,
+                    61.6667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "16",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.3333,
+                    66.6667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "17",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.1667,
+                    59
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "19",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.0667,
+                    60.9667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "20",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.0167,
+                    60.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "21",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.1833,
+                    58.15
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "22",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.8333,
+                    53.8333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "23",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    69.5167,
+                    56.1333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "24",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.8167,
+                    64.9167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "27",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.9667,
+                    54
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "29",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    108.0167,
+                    61.2667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "31",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.3,
+                    52.2833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "32",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.95,
+                    65.7833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "33",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.15,
+                    58.45
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "35",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.7,
+                    53.7
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "36",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.8833,
+                    56
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "37",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.9333,
+                    53.9667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "38",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.9333,
+                    54.7167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "40",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.3,
+                    52.2833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "43",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    137.0333,
+                    51.0833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "44",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.2667,
+                    46.8
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "45",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.6333,
+                    54.3333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "46",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.2333,
+                    53.7167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "47",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.8167,
+                    47.55
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "48",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.5,
+                    52.4167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "49",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    130.9667,
+                    47.7333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "50",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.8833,
+                    48.7
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "51",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.9167,
+                    52.35
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "52",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.95,
+                    61.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "57",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.2833,
+                    64.85
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "58",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.5,
+                    64.5833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "59",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.1167,
+                    63.9
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "60",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    82.9,
+                    58.3
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "61",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.9667,
+                    56.4333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "62",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.9667,
+                    55.2
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "63",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.4,
+                    55.3667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "64",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    87.6167,
+                    56.0667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "65",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    86.65,
+                    54.0333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "66",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.65,
+                    53.9667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "67",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.2167,
+                    51.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "68",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.7,
+                    53.3333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "69",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.6833,
+                    50.0167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "70",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.2833,
+                    48.9667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "75",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.3,
+                    60.7667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "81",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.8833,
+                    64.2833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "82",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.05,
+                    63.9333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "83",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.7833,
+                    59.6167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "84",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    74.5833,
+                    55.0333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "85",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.0667,
+                    64.1667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "86",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    90.2333,
+                    60.25
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "87",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    93.1833,
+                    57.75
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "88",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    95.2667,
+                    56.1667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "89",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    99.8833,
+                    52.8
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "90",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    68.1833,
+                    58.15
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "91",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83.7,
+                    53.3333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "92",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.85,
+                    61.6667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "93",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    57.9167,
+                    61.8
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "94",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.5333,
+                    53.1
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "95",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.05,
+                    53.9333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "96",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    107.5,
+                    55.3333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "97",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    98.3667,
+                    56.3667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "98",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.5333,
+                    51.7333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "99",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.8667,
+                    59.2833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "101",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    70.6167,
+                    56.8167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "102",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.5,
+                    57.15
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "103",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    71.2667,
+                    54.9
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "104",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    73.4,
+                    54.9333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "105",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.6,
+                    59.3833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "111",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.75,
+                    57.0833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "112",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.65,
+                    58.9833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "113",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    61.0667,
+                    56.7333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "114",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.4333,
+                    60.6833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "115",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    60.35,
+                    52.4333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "116",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    65.4,
+                    55.4667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "117",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    67.3,
+                    55.25
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "118",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.3833,
+                    54.5667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "119",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.9833,
+                    53.6167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "120",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    89.5833,
+                    56.2333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "121",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    92.2,
+                    56.1167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "122",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.5,
+                    58.7
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "123",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.2833,
+                    54.3667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "124",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    84.95,
+                    52.6833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "125",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    81.3333,
+                    53.8
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "126",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    128.116,
+                    51.45
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "127",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.65,
+                    51.9833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "128",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    97.4,
+                    58.4167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "141",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    91.3333,
+                    53.8333
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "142",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.5,
+                    51.6667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "143",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.1667,
+                    61
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "144",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    59.3833,
+                    67.0833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "145",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    52.1667,
+                    65.45
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "146",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    80.2,
+                    52.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "149",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    78.2333,
+                    59.2167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "150",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    83,
+                    55.0833
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "151",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    100.633,
+                    54.6
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "152",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    104.333,
+                    52.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "153",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.166,
+                    48.5167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "154",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.916,
+                    50.1667
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "155",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.2,
+                    67.0167
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "160",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.75,
+                    62.08
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "3",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    136.22,
+                    70.75
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "5",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.38,
+                    67.55
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "11",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.72,
+                    67.45
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "12",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.15,
+                    63.27
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "13",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    123.97,
+                    54
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "29",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.62,
+                    63.83
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "54",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.15,
+                    61.48
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "56",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.17,
+                    62.78
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "133",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.5,
+                    61.83
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "134",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    160.55,
+                    65.17
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "165",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.33,
+                    63.28
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "167",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.5,
+                    61.87
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "168",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.33,
+                    65
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "169",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    102.4,
+                    68.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "189",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    88.3,
+                    69.3
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "193",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4,
+                    56.9
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "231",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.9,
+                    60.9
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "233",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.1,
+                    65.3
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "235",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124,
+                    68.7
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "237",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.4,
+                    68.2
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "238",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    125.3,
+                    60.8
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "239",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.4,
+                    62.8
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "240",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    129.7,
+                    62.7
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "244",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    127.5,
+                    63.9
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "245",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.3,
+                    68.6
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "246",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    124.6,
+                    61.9
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "247",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    134.5,
+                    60.4
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "248",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.2,
+                    66.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "249",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.9,
+                    64.2
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "252",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    132.6,
+                    62
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "253",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    133.6,
+                    62.4
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "254",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -178.9,
+                    67
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "269",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.9,
+                    63.2
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "270",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.2,
+                    55.9
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "433",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.5,
+                    52.5
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "435",
+                "marker-color": "#f4678d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    131.62,
+                    62.57
+                ]
+            },
+            "properties": {
+                "dataset": "ggd195",
+                "id": "0",
+                "marker-color": "#f4678d"
+            }
         }
     ]
 }
